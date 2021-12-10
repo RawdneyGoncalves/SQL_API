@@ -1,6 +1,6 @@
 ## Configurar o arquivo .sequelizerc
 
-Para realizer as migrations
+Para realizar as migrations
 
 
 
