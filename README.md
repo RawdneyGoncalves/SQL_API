@@ -2,7 +2,7 @@
 Projeto designado para estudos de migration, controller, middleware. 
 Foi voltado para a prática de criar APIS e forma organizada/funcional
 
-Para realizar as migrations
+Para realizar as migrations :
 
 
 
