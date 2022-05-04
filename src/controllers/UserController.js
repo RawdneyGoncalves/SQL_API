@@ -1,6 +1,5 @@
 const User = require("../models/User");
 module.exports = { 
-
   async store(req, res) {
     const { name:name, 
            email:email, 
